@@ -1,5 +1,8 @@
 p#notice= notice
 p
+  strong Image:
+  = image_tag @movie.image.url(:medium)
+p
   strong Title:
   = @movie.title
 p
