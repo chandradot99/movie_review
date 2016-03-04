@@ -1,5 +1,4 @@
 = Movie Rating & Review App
-== Week 5 of my 12 in 12 Challenge
 
 Currently i am learning Ruby on Rails, so i build this web app to give myself better understanding of rails.
 
